@@ -2,6 +2,12 @@
 
 ### Web Application Security Framework 
 
+        ▓▓         ▓ 33333  ▒▒▒▒▒    ▓▓▓▓▓▓  ████  II PPPPP  33333  RR   RR
+        ▓▓   ▓▓   ▓      33 ▒▒   ▒▒ ███     ▓▓  ▓▓ II PP   P     33 RR RR  R
+        ▓▓  ▓ ▓  ▓  33333   ▒▒▒▒▒    ▓▓▓▓   ██  ██ II PPPPP 33333   RRR
+        ▓▓ ▓   ▓         33 ▒▒   ▒▒     ███ ██  ██ II PP         33 RR
+        ▓▓    ▓▓  3333333   ▒▒▒▒▒   ▓▓▓▓▓▓  ██  ██ II PP  3333333   RR  Version 1.0
+
 
 
 ### INTRODUCTION
