@@ -1,6 +1,6 @@
 # w3bsnip3r
 
-### Web Application Security Framework 
+### ***Web Application Security Framework***
 
         ▓▓         ▓ 33333  ▒▒▒▒▒    ▓▓▓▓▓▓  ████  II PPPPP  33333  RR   RR
         ▓▓   ▓▓   ▓      33 ▒▒   ▒▒ ███     ▓▓  ▓▓ II PP   P     33 RR RR  R
@@ -20,9 +20,9 @@ It is well tested on Kali linux
 
 
 ### BASIC REQUIREMENTS
-[+] install Nikto
-[+] install Nmap
-[+] install Zap-proxy 
+[+] Install Nikto
+[+] Install Nmap
+[+] Install Zap-proxy 
 
 
 ### INSTALLATION
@@ -63,4 +63,4 @@ python3 w3bsnip3r.py
 ```
 
 
-### Happy Hacking
+~~Happy Hacking~~
